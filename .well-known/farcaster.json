@@ -1,10 +1,15 @@
 {
+  "accountAssociation": {
+    "header": "eyJmaWQiOjE5NTY2MiwidHlwZSI6ImF1dGgiLCJrZXkiOiIweEIxRDFCNDg1Y0FGYTMwNTQxRjMwNDFiNDM5MDJCMWU5ZjQxMTMxRmYifQ",
+    "payload": "eyJkb21haW4iOiJiYXNlLW1lbWUtcmFkYXItd3JhcHBlci52ZXJjZWwuYXBwIn0",
+    "signature": "7Mf4DgrzMVdCEkzNicd/uNLHbLj1wGQrITTnGF9jHxIraJCdp7BxVOZQllKGZ090xBnhjn4RbE+23kf1Q+ZAwBw="
+  },
   "miniapp": {
     "name": "Base Meme Radar",
     "description": "Shows the most traded Base meme coin in the last 24 hours",
-    "icon": "https://base-topmeme-radar.lovable.app/favicon.ico",
+    "iconUrl": "https://base-topmeme-radar.lovable.app/favicon.ico",
     "homeUrl": "https://base-topmeme-radar.lovable.app",
     "supportedChains": ["base"],
-    "version": "1.0.0"
+    "version": 1
   }
 }
