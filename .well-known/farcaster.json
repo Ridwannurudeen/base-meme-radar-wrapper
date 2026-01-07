@@ -5,11 +5,15 @@
     "signature": "7Mf4DgrzMVdCEkzNicd/uNLHbLj1wGQrITTnGF9jHxIraJCdp7BxVOZQllKGZ090xBnhjn4RbE+23kf1Q+ZAwBw="
   },
   "miniapp": {
-    "name": "Base Meme Radar",
-    "description": "Shows the most traded Base meme coin in the last 24 hours",
-    "iconUrl": "https://base-topmeme-radar.lovable.app/favicon.ico",
-    "homeUrl": "https://base-topmeme-radar.lovable.app",
-    "supportedChains": ["base"],
-    "version": "0.0.1"
+  "name": "Base Meme Radar",
+  "description": "Shows the most traded Base meme coin in the last 24 hours",
+  "iconUrl": "https://base-topmeme-radar.lovable.app/favicon.ico",
+  "ogImageUrl": "https://base-topmeme-radar.lovable.app/favicon.ico",
+  "homeUrl": "https://base-topmeme-radar.lovable.app",
+  "castShareUrl": "https://base-meme-radar-wrapper.vercel.app",
+  "supportedChains": ["base"],
+  "version": "0.0.1"
+}
+
   }
 }
