@@ -8,11 +8,13 @@
   "name": "Base Meme Radar",
   "description": "Shows the most traded Base meme coin in the last 24 hours",
   "iconUrl": "https://base-topmeme-radar.lovable.app/favicon.ico",
-  "ogImageUrl": "https://base-topmeme-radar.lovable.app/favicon.ico",
+  "ogImageUrl": "https://raw.githubusercontent.com/Ridwannurudeen/base-meme-radar-wrapper/main/base-meme-radar.png",
   "homeUrl": "https://base-topmeme-radar.lovable.app",
   "castShareUrl": "https://base-meme-radar-wrapper.vercel.app",
   "supportedChains": ["base"],
   "version": "0.0.1"
+}
+
 }
 
   }
