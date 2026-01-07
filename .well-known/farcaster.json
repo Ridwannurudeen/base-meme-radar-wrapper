@@ -10,6 +10,6 @@
     "iconUrl": "https://base-topmeme-radar.lovable.app/favicon.ico",
     "homeUrl": "https://base-topmeme-radar.lovable.app",
     "supportedChains": ["base"],
-    "version": 1
+    "version": "0.0.1"
   }
 }
